@@ -1,6 +1,6 @@
 {
-  "name": "react-materialize",
-  "version": "2.6.0",
+  "name": "react-materialize-3-beta",
+  "version": "3.0.0-beta",
   "description": "Material design components for react",
   "main": "./lib/index.js",
   "files": [
@@ -76,5 +76,8 @@
     "classnames": "^2.2.5",
     "react": "^16.2.0",
     "react-dom": "^16.2.0"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
   }
 }
